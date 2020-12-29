@@ -1,0 +1,12 @@
+.centerbod{
+    text-align: center; border: solid; background-color: black; width: 400px; height: 550px; border-radius: 2%; margin: auto;
+}
+.head{
+    color: white; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.song{
+    color: white; font-family:'Times New Roman', Times, serif;
+}
+.photo{
+    border-radius: 10%;
+}
